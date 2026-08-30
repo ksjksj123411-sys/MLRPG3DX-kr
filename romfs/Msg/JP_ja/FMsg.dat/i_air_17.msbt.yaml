@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KAir_17_KAir_17_mes_1:
-    Contents: "<Tag_0><Tag_1>もう<Tag_2>少しだったのに また\n<Tag_3>逃げられて しまったわ…<Tag_4><Tag_5>ダークスター…\n１つ１つ<Tag_6>確実に クッパの\n<Tag_7>情報を <Tag_8>取り<Tag_9>込んでいるみたいね。<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>次こそは <Tag_15>絶対に<Tag_16>追いつめましょう！<Tag_17>"
+    Contents: "<Tag_0><Tag_1>거의 다 됐었는데 또\n<Tag_3>도망쳐 버렸어…<Tag_4><Tag_5>다크 스타…\n하나하나<Tag_6>확실하게 쿠파의\n<Tag_7>정보를 <Tag_8>흡수하고<Tag_9> 있는 것 같아.<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>다음에는<Tag_15>반드시<Tag_16>따라잡자!<Tag_17>"
     Tags:
       Tag_0:
         Group: 9
