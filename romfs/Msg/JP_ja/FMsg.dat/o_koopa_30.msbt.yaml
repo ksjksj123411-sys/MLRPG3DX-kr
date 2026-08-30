@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_SAVE_BLOCK_recovery:
-    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Contents: "<Tag_0><Tag_1><Tag_2>HP와 BP를<Tag_3>회복하는 것도\n<Tag_4>잊지 않도록 합시다.<Tag_5><Tag_6>"
     Tags:
       Tag_0:
         Group: 9
