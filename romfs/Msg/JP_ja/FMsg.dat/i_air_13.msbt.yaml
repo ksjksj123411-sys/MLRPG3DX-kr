@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KAir_13_KAir_13_mes_1:
-    Contents: "<Tag_0><Tag_1>下に<Tag_2>見えるのは <Tag_3>我ら\nヘモグロびんの <Tag_4>突然変異…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>リフトロびん<Tag_10><Tag_11>びん！<Tag_12><Tag_13><Tag_14>この<Tag_15><Tag_16>リフトロびん<Tag_17><Tag_18>は <Tag_19>我らのように\n<Tag_20>言葉を<Tag_21>使うことは できないびんが…<Tag_22><Tag_23>アイススモークで <Tag_24>冷えてかたまると\n<Tag_25>動かせる <Tag_26>特性があるびん！<Tag_27><Tag_28>まずは アイススモークで\n<Tag_29><Tag_30><Tag_31>冷やして<Tag_32>上に<Tag_33>乗ってみる<Tag_34><Tag_35>びん。<Tag_36><Tag_37>"
+    Contents: "<Tag_0><Tag_1>아래에<Tag_2>보이는 건 <Tag_3>우리\n헤모글로빈의 <Tag_4>돌연변이…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>리프트로빈<Tag_10><Tag_11>빈!<Tag_12><Tag_13><Tag_14>이<Tag_15><Tag_16>리프트로빈<Tag_17><Tag_18>은 <Tag_19>우리처럼\n<Tag_20>말을<Tag_21>사용할 수는 없지만…<Tag_22><Tag_23>아이스 스모크에 <Tag_24>얼어붙으면\n<Tag_25>움직일 수 있는 <Tag_26>특성이 있대, 빈!<Tag_27><Tag_28>먼저 아이스 스모크로\n<Tag_29><Tag_30><Tag_31>얼린 다음<Tag_32>위에<Tag_33>올라타 보는<Tag_34><Tag_35>빈.<Tag_36><Tag_37>"
     Tags:
       Tag_0:
         Group: 9
@@ -165,7 +165,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_2:
-    Contents: "<Tag_0><Tag_1><Tag_2>そうびん！ そうびん！<Tag_3><Tag_4><Tag_5><Tag_6>冷えてかたまった リフトロびんに\n<Tag_7>乗ったら <Tag_8>タッチペン<Tag_9><Tag_10>で\nリフトロびんに <Tag_11>指示を<Tag_12>出すびん！<Tag_13><Tag_14>"
+    Contents: "<Tag_0><Tag_1><Tag_2>그렇빈! 그렇빈!<Tag_3><Tag_4><Tag_5><Tag_6>얼어붙은 리프트로빈에\n<Tag_7>타면 <Tag_8>터치펜<Tag_9><Tag_10>으로\n리프트로빈에게 <Tag_11>지시를<Tag_12>내리는 빈!<Tag_13><Tag_14>"
     Tags:
       Tag_0:
         Group: 9
@@ -230,7 +230,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_3:
-    Contents: "<Tag_0><Tag_1>例えば こんなふうに\nリフトロびんを なぞって\n<Tag_2>行きたい<Tag_3>方向を <Tag_4>知らせると…<Tag_5>"
+    Contents: "<Tag_0><Tag_1>예를 들어 이런 식으로\n리프트로빈을 따라 그어서\n<Tag_2>가고 싶은<Tag_3>방향을 <Tag_4>알려주면…<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -259,7 +259,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_4:
-    Contents: <Tag_0>なぞった<Tag_1>方向へ <Tag_2>動き<Tag_3>出すびん！<Tag_4>
+    Contents: <Tag_0>그은<Tag_1>방향으로 <Tag_2>움직이기<Tag_3>시작하는 빈!<Tag_4>
     Tags:
       Tag_0:
         Group: 9
@@ -284,7 +284,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_5:
-    Contents: "<Tag_0><Tag_1>動いている リフトロびんに\n<Tag_2>止まってほしいときは\n<Tag_3>軽くタッチしてあげるびん！<Tag_4>"
+    Contents: "<Tag_0><Tag_1>움직이는 리프트로빈이\n<Tag_2>멈췄으면 할 때는\n<Tag_3>살짝 터치해 주면<Tag_4>돼, 빈!"
     Tags:
       Tag_0:
         Group: 9
@@ -309,7 +309,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_6:
-    Contents: "<Tag_0>ちなみに リフトロびんは\nある<Tag_1>程度の <Tag_2>重さを<Tag_3>感じないと\n<Tag_4>動いてくれないびん。<Tag_5><Tag_6><Tag_7><Tag_8>君達１人が <Tag_9>乗ったぐらいでは\nおそらく <Tag_10>重さを<Tag_11>感じないびん…<Tag_12><Tag_13><Tag_14>リフトロびんに <Tag_15>動いてほしいときは\n<Tag_16><Tag_17>必ず<Tag_18>２人で<Tag_19>乗る<Tag_20><Tag_21>びんよ！<Tag_22><Tag_23>"
+    Contents: "<Tag_0>참고로 리프트로빈은\n어느<Tag_1>정도 무게를<Tag_2>느끼지 못하면\n<Tag_3>움직이지 않는 빈.<Tag_4><Tag_5><Tag_6><Tag_7>너희 둘 중 한 명만<Tag_8>타는 정도로는\n아마 <Tag_9>무게를<Tag_10>느끼지 못할 빈…<Tag_11><Tag_12><Tag_13><Tag_14>리프트로빈이 <Tag_15>움직였으면 할 때는\n<Tag_16><Tag_17>반드시<Tag_18>둘이서<Tag_19>타야<Tag_20><Tag_21>하는 빈!<Tag_22><Tag_23>"
     Tags:
       Tag_0:
         Group: 9
@@ -410,7 +410,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_7:
-    Contents: "<Tag_0><Tag_1>それと… リフトロびんは\n<Tag_2>１人ぼっちが キライびん。<Tag_3><Tag_4>リフトロびんを おいて\n<Tag_5>遠くはなれると <Tag_6>最初に<Tag_7>自分がいた\n<Tag_8>場所に もどってしまうびん。<Tag_9><Tag_10>リフトロびんが どこに<Tag_11>行ったのか\nわからなくなったら ここに\nもどってくると いいびん！<Tag_12>"
+    Contents: "<Tag_0><Tag_1>그리고… 리프트로빈은\n<Tag_2>혼자 있는 걸 싫어하는 빈.<Tag_3><Tag_4>리프트로빈을 두고\n<Tag_5>멀리 떨어지면 <Tag_6>처음에<Tag_7>자기가 있던\n<Tag_8>곳으로 돌아가 버리는 빈.<Tag_9><Tag_10>리프트로빈이 어디로<Tag_11>갔는지\n모르게 됐다면 여기로\n돌아오면 되는 빈!<Tag_12>"
     Tags:
       Tag_0:
         Group: 9
@@ -467,7 +467,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_8:
-    Contents: "<Tag_0><Tag_1>リフトロびんを うまく\n<Tag_2>乗りこなしているびん？<Tag_3><Tag_4>リフトロびんの <Tag_5>乗りこなしかたを\nもう１<Tag_6>度 <Tag_7>聞いておくびん？<Tag_8>\n<Tag_9><Tag_10>いいえ<Tag_11><Tag_12>はい<Tag_13>"
+    Contents: "<Tag_0><Tag_1>리프트로빈을 잘\n<Tag_2>타고 있어, 빈? <Tag_3><Tag_4>리프트로빈 타는 법을\n다시 한<Tag_5>번<Tag_6>들어볼래, 빈?<Tag_7>\n<Tag_8><Tag_9>아니<Tag_10><Tag_11>응<Tag_12>"
     Tags:
       Tag_0:
         Group: 9
@@ -492,43 +492,39 @@ Messages:
       Tag_5:
         Group: 0
         Type: 0
-        Parameters: 02 00 02 00 6e 30
+        Parameters: 02 00 02 00 69 30
       Tag_6:
         Group: 0
         Type: 0
-        Parameters: 02 00 02 00 69 30
-      Tag_7:
-        Group: 0
-        Type: 0
         Parameters: 02 00 02 00 4d 30
-      Tag_8:
+      Tag_7:
         Group: 2
         Type: 0
         Parameters: 0a 00
-      Tag_9:
+      Tag_8:
         Group: 1
         Type: 1
         Parameters: 
-      Tag_10:
+      Tag_9:
         Group: 4
         Type: 1
         Parameters: 
-      Tag_11:
+      Tag_10:
         Group: 6
         Type: 0
         Parameters: 28 00
-      Tag_12:
+      Tag_11:
         Group: 4
         Type: 1
         Parameters: 
-      Tag_13:
+      Tag_12:
         Group: 2
         Type: 0
         Parameters: 0a 00
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_9:
-    Contents: "<Tag_0><Tag_1>なにについて <Tag_2>聞くびん？<Tag_3>\n<Tag_4><Tag_5><Tag_6>動かしかたについて\n<Tag_7><Tag_8><Tag_9>止めかたについて\n<Tag_10><Tag_11>その<Tag_12>他について\n<Tag_13><Tag_14>やっぱり<Tag_15>聞かない<Tag_16>"
+    Contents: "<Tag_0><Tag_1>무엇에 대해 <Tag_2>들을까, 빈?<Tag_3>\n<Tag_4><Tag_5><Tag_6>움직이는 법\n<Tag_7><Tag_8><Tag_9>멈추는 법\n<Tag_10><Tag_11>그<Tag_12>밖의 이야기\n<Tag_13><Tag_14>아니, 그냥<Tag_15>듣지 않을래<Tag_16>"
     Tags:
       Tag_0:
         Group: 9
@@ -601,7 +597,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_10:
-    Contents: "<Tag_0>アイススモークで <Tag_1>冷やしてかため\n<Tag_2>タッチペン<Tag_3><Tag_4>で リフトロびんを<Tag_5><Tag_6>なぞる<Tag_7><Tag_8>と\nその<Tag_9>方向へ <Tag_10>動き<Tag_11>出すびん。<Tag_12><Tag_13>リフトロびんは <Tag_14>２人分の<Tag_15>重さを\n<Tag_16>感じないと <Tag_17>動かないから\n<Tag_18><Tag_19><Tag_20>必ず<Tag_21>２人で<Tag_22>乗る<Tag_23><Tag_24>びんよ。<Tag_25><Tag_26>"
+    Contents: "<Tag_0>아이스 스모크로 <Tag_1>얼려 굳힌 뒤\n<Tag_2>터치펜<Tag_3><Tag_4>으로 리프트로빈을<Tag_5><Tag_6>따라 그으면<Tag_7><Tag_8>그<Tag_9>방향으로 <Tag_10>움직이기<Tag_11>시작하는 빈.<Tag_12><Tag_13>리프트로빈은 <Tag_14>두 사람의<Tag_15>무게를\n<Tag_16>느끼지 못하면 <Tag_17>움직이지 않으니\n<Tag_18><Tag_19><Tag_20>반드시<Tag_21>둘이서<Tag_22>타야<Tag_23><Tag_24>하는 빈.<Tag_25><Tag_26>"
     Tags:
       Tag_0:
         Group: 9
@@ -714,7 +710,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_11:
-    Contents: "<Tag_0><Tag_1>動いている リフトロびんに\n<Tag_2>止まってほしいときは\n<Tag_3><Tag_4>軽くタッチ<Tag_5><Tag_6>してあげるびん！<Tag_7><Tag_8><Tag_9>動いているとちゅうで\nリフトロびんから おりたり\nジャンプしても <Tag_10>止まるびん。<Tag_11><Tag_12>"
+    Contents: "<Tag_0><Tag_1>움직이는 리프트로빈이\n<Tag_2>멈췄으면 할 때는\n<Tag_3><Tag_4>살짝 터치<Tag_5><Tag_6>해 주면 돼, 빈!<Tag_7><Tag_8><Tag_9>움직이는 도중에\n리프트로빈에서 내리거나\n점프해도 <Tag_10>멈추는 빈.<Tag_11><Tag_12>"
     Tags:
       Tag_0:
         Group: 9
@@ -771,7 +767,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_12:
-    Contents: "<Tag_0><Tag_1>リフトロびんは<Tag_2> １人ぼっちが\nキライびん。<Tag_3><Tag_4>リフトロびんを おいて\n<Tag_5>遠くはなれると <Tag_6>最初にリフトロびんが\nいた<Tag_7>場所に もどってしまうびん。<Tag_8><Tag_9>リフトロびんが <Tag_10>画面から\n<Tag_11>見えなくならないよう\n<Tag_12>気をつけると いいびん。<Tag_13>"
+    Contents: "<Tag_0><Tag_1>리프트로빈은<Tag_2> 혼자 있는 걸\n싫어하는 빈.<Tag_3><Tag_4>리프트로빈을 두고\n<Tag_5>멀리 떨어지면 <Tag_6>처음에 리프트로빈이\n있던<Tag_7>곳으로 돌아가 버리는 빈.<Tag_8><Tag_9>리프트로빈이 <Tag_10>화면에서\n<Tag_11>보이지 않게 되지 않도록\n<Tag_12>주의하는 게 좋아, 빈.<Tag_13>"
     Tags:
       Tag_0:
         Group: 9
@@ -832,7 +828,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_13_KAir_13_mes_13:
-    Contents: "<Tag_0><Tag_1><Tag_2>他にも <Tag_3>聞くびんか？<Tag_4>\n<Tag_5><Tag_6><Tag_7>動かしかたについて\n<Tag_8><Tag_9><Tag_10>止めかたについて\n<Tag_11><Tag_12>その<Tag_13>他について\n<Tag_14><Tag_15>やっぱり<Tag_16>聞かない<Tag_17>"
+    Contents: "<Tag_0><Tag_1><Tag_2>더 들을<Tag_3> 거 빈가? <Tag_4>\n<Tag_5><Tag_6><Tag_7>움직이는 법\n<Tag_8><Tag_9><Tag_10>멈추는 법\n<Tag_11><Tag_12>그<Tag_13>밖의 이야기\n<Tag_14><Tag_15>아니, 그냥<Tag_16>듣지 않을래<Tag_17>"
     Tags:
       Tag_0:
         Group: 9
