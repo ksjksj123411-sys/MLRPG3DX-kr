@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_work_ho_01:
-    Contents: <Tag_0>けんしゅう１
+    Contents: <Tag_0>연습 1
     Tags:
       Tag_0:
         Group: 9
@@ -17,7 +17,7 @@ Messages:
     Attribute: 00000000
     StyleID: 8
   MES_work_ho_02:
-    Contents: <Tag_0>けんしゅう２
+    Contents: <Tag_0>연습 2
     Tags:
       Tag_0:
         Group: 9
