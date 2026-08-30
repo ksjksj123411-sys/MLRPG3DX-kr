@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KEnergy_18_KEnergy_18_aparts_01:
-    Contents: "<Tag_0>あなた<Tag_1>達 このパーツを\n<Tag_2>集めてるびん？<Tag_3>"
+    Contents: "<Tag_0>너희들<Tag_1> 이 파츠를\n<Tag_2>모으고 있니?<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -29,7 +29,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_18_KEnergy_18_aparts_02:
-    Contents: "<Tag_0><Tag_1><Tag_2>残念なことに このスペースの\nアタックパーツは…<Tag_3><Tag_4>ミニ<Tag_5>マップを <Tag_6>開いても\nどこにあるのか わからないびん！<Tag_7><Tag_8>このスペースの アタックパーツを\nすべて<Tag_9>集めるには <Tag_10>自分の<Tag_11>経験と\nカンで <Tag_12>見つけ<Tag_13>出すびんよ！<Tag_14><Tag_15>このスペースで アタックパーツを\nすべて<Tag_16>集めると とっても<Tag_17>強い\nブラザーアタックが <Tag_18>完成するびん！<Tag_19><Tag_20><Tag_21><Tag_22>がんばって <Tag_23>見つけるびん！<Tag_24><Tag_25>"
+    Contents: "<Tag_0><Tag_1><Tag_2>아쉽게도 이 공간의\n어택 파츠는…<Tag_3><Tag_4>미니<Tag_5>맵을 <Tag_6>열어봐도\n어디에 있는지 알 수 없단다!<Tag_7><Tag_8>이 공간의 어택 파츠를\n모두<Tag_9>모으려면 <Tag_10>자신의<Tag_11>경험과\n감으로<Tag_12>찾아내야<Tag_13>한단다!<Tag_14><Tag_15>이 공간의 어택 파츠를\n모두<Tag_16>모으면 아주<Tag_17>강력한\n브라더 어택이<Tag_18>완성된단다!<Tag_19><Tag_20><Tag_21><Tag_22>힘내서 <Tag_23>찾아보렴!<Tag_24><Tag_25>"
     Tags:
       Tag_0:
         Group: 9
@@ -138,7 +138,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_18_KEnergy_18_aparts_03:
-    Contents: "<Tag_0>あなた<Tag_1>達 このスペースの\nアタックパーツを <Tag_2>全部見つけたびん！<Tag_3><Tag_4><Tag_5><Tag_6>おめでとうびん！<Tag_7>"
+    Contents: "<Tag_0>너희들<Tag_1> 이 공간의\n어택 파츠를<Tag_2> 전부 찾았구나!<Tag_3><Tag_4><Tag_5><Tag_6>축하한단다!<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
