@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KEnergy_01_KE01_02_ystar_01:
-    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>逃げられちゃったわね…<Tag_4>
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>도망쳐 버렸네…<Tag_4>
     Tags:
       Tag_0:
         Group: 9
@@ -33,7 +33,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_02_ystar_02:
-    Contents: "<Tag_0><Tag_1>この<Tag_2>奥に なんとか<Tag_3>行けそうな\n<Tag_4>感じなんだけど…<Tag_5>"
+    Contents: "<Tag_0><Tag_1>이<Tag_2>안으로 어떻게든 <Tag_3>갈 수 있을 것 같은\n<Tag_4>느낌인데…<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -62,7 +62,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_02_ystar_03:
-    Contents: <Tag_0><Tag_1><Tag_2>…しかたないわね。<Tag_3>
+    Contents: <Tag_0><Tag_1><Tag_2>…어쩔 수 없네.<Tag_3>
     Tags:
       Tag_0:
         Group: 9
@@ -83,7 +83,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_02_ystar_04:
-    Contents: "<Tag_0><Tag_1>Dr.コキノが <Tag_2>他の<Tag_3>賢者の<Tag_4>居場所を\n<Tag_5>見つけるまで <Tag_6>様子をみましょう。<Tag_7><Tag_8><Tag_9>クッパが<Tag_10>先に スターワクチンを\n<Tag_11>手に<Tag_12>入れることは ありえないんだし…<Tag_13>"
+    Contents: "<Tag_0><Tag_1>코키노 박사가 <Tag_2>다른<Tag_3>현자들의<Tag_4>거처를\n<Tag_5>찾을 때까지 <Tag_6>상황을 지켜보자.\n<Tag_7><Tag_8><Tag_9>쿠파가<Tag_10>먼저 스타 백신을\n<Tag_11>손에<Tag_12>넣을 리는 없으니까…<Tag_13>"
     Tags:
       Tag_0:
         Group: 9
@@ -144,7 +144,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_ystar_01_2:
-    Contents: "<Tag_0><Tag_1>さっきのイモムシが <Tag_2>逃げていった\nかべが<Tag_3>消えたわよ！！<Tag_4>"
+    Contents: "<Tag_0><Tag_1>아까 그 애벌레가 <Tag_2>도망가면서\n벽이<Tag_3>사라졌어!!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -169,7 +169,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_ystar_01:
-    Contents: <Tag_0><Tag_1><Tag_2>あ！ あれ！<Tag_3>
+    Contents: <Tag_0><Tag_1><Tag_2>아! 저거야!<Tag_3>
     Tags:
       Tag_0:
         Group: 9
@@ -190,7 +190,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_ystar_02:
-    Contents: "<Tag_0><Tag_1>ここは <Tag_2>外からの<Tag_3>光で\n<Tag_4>変化していくのね。<Tag_5>"
+    Contents: "<Tag_0><Tag_1>여기는 <Tag_2>바깥에서 들어오는<Tag_3>빛에 의해\n<Tag_4>변하는 모양이네.<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -219,7 +219,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_ystar_03:
-    Contents: <Tag_0><Tag_1>これで <Tag_2>追いかけられるわね！<Tag_3>
+    Contents: <Tag_0><Tag_1>이제 <Tag_2>쫓아갈 수 있겠어!<Tag_3>
     Tags:
       Tag_0:
         Group: 9
@@ -240,7 +240,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KEnergy_01_KE01_ystar_04:
-    Contents: <Tag_0><Tag_1><Tag_2>さ！ <Tag_3>行きましょ！<Tag_4>
+    Contents: <Tag_0><Tag_1><Tag_2>자! <Tag_3>가자!<Tag_4>
     Tags:
       Tag_0:
         Group: 9
