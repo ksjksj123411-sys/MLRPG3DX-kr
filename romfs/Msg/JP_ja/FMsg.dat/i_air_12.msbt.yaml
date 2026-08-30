@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KAir_12_KAir_12_mes_01:
-    Contents: <Tag_0><Tag_1>追いついたわ！<Tag_2>
+    Contents: <Tag_0><Tag_1>따라잡았어!<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -25,7 +25,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_12_KAir_12_mes_02:
-    Contents: "<Tag_0>またなにか クッパの<Tag_1>情報を\n<Tag_2>吸収したみたいね…<Tag_3>"
+    Contents: "<Tag_0>또 뭔가 쿠파의<Tag_1>정보를\n<Tag_2>흡수한 모양이네…<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -46,7 +46,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_12_KAir_12_mes_03:
-    Contents: "<Tag_0><Tag_1>今が ダークスターを\nつかまえるチャンスよ！<Tag_2>"
+    Contents: "<Tag_0><Tag_1>지금이 다크스타를\n잡을 기회야!<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -63,7 +63,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_12_KAir_12_mes_04:
-    Contents: "<Tag_0><Tag_1>今 ダークスターが\nほのおを はいたわよね…<Tag_2><Tag_3>さっきは パンチでかべを\nこわしたし…<Tag_4><Tag_5><Tag_6><Tag_7>まるで クッパみたいだわ…<Tag_8>"
+    Contents: "<Tag_0><Tag_1>방금 다크스타가\n불을 뿜었지…<Tag_2><Tag_3>아까는 펀치로 벽을\n부수기도 했고…<Tag_4><Tag_5><Tag_6><Tag_7>꼭 쿠파 같아…<Tag_8>"
     Tags:
       Tag_0:
         Group: 9
@@ -104,7 +104,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_12_KAir_12_mes_05:
-    Contents: "<Tag_0>これ<Tag_1>以上 ダークスターが\nクッパの<Tag_2>情報を <Tag_3>吸収するのを\nやめさせないと <Tag_4>危険だわ。<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>急いで<Tag_10>後を <Tag_11>追いかけましょう！<Tag_12>"
+    Contents: "<Tag_0>다크스타가<Tag_1>더 이상 쿠파의\n정보를<Tag_2>흡수하지 못하게 하지 않으면\n<Tag_3>위험해.<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>어서<Tag_9>뒤를<Tag_10>쫓아가자!<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -151,17 +151,13 @@ Messages:
         Type: 0
         Parameters: 02 00 04 00 42 30 68 30
       Tag_11:
-        Group: 0
-        Type: 0
-        Parameters: 02 00 02 00 4a 30
-      Tag_12:
         Group: 2
         Type: 1
         Parameters: 
     Attribute: 00000000
     StyleID: 6
   MES_SAVE_BLOCK_recovery:
-    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Contents: "<Tag_0><Tag_1><Tag_2>HP와 BP를<Tag_3>회복하는 것도\n<Tag_4>잊지 않도록 합시다.<Tag_5><Tag_6>"
     Tags:
       Tag_0:
         Group: 9
