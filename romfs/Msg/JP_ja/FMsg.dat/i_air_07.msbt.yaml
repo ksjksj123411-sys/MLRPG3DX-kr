@@ -131,7 +131,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_KAir_07_KAir_07_mes_04:
-    Contents: "<Tag_0><Tag_1>약해졌다고 해도 다크스타에게\n이 이상<Tag_2>가까이<Tag_3>다가가는 건<Tag_4>위험해…<Tag_5><Tag_6>멀리서 피해를 입힐 수는\n없을까…<Tag_8>"
+    Contents: "<Tag_0><Tag_1>약해졌다고 해도 다크스타에게\n이 이상<Tag_2>가까이<Tag_3>다가가는 건<Tag_4>위험해…<Tag_5><Tag_6>멀리서 피해를\n<Tag_7>입힐 수는 없을까…<Tag_8>"
     Tags:
       Tag_0:
         Group: 9
