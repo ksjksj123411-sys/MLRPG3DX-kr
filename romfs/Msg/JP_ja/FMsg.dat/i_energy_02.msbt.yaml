@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KEnergy_02_Kene_02_hemo_mes:
-    Contents: "<Tag_0><Tag_1>ヘモグロびん<Tag_2>的な <Tag_3>常識としては\nなにもないように <Tag_4>見えても…<Tag_5><Tag_6><Tag_7><Tag_8>光を<Tag_9>当てると その<Tag_10>存在が\n<Tag_11>浮かび<Tag_12>上がることが あるびん。<Tag_13><Tag_14><Tag_15>逆に <Tag_16>存在していても<Tag_17>光を<Tag_18>当てると\n<Tag_19>見えなくなることも あるびん。<Tag_20>"
+    Contents: "<Tag_0><Tag_1>헤모글로빈<Tag_2>적인 <Tag_3>상식으로는\n아무것도 없는 것처럼 <Tag_4>보여도…<Tag_5><Tag_6><Tag_7><Tag_8>빛을<Tag_9> 비추면 그<Tag_10>존재가\n<Tag_11>드러나는 경우가 있는 모양이야.<Tag_12><Tag_13><Tag_14>반대로 <Tag_15>존재하고 있어도<Tag_16>빛을<Tag_17> 비추면\n<Tag_18>보이지 않게 되는 경우도 있지.<Tag_19>"
     Tags:
       Tag_0:
         Group: 9
@@ -97,7 +97,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_SAVE_BLOCK_recovery:
-    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Contents: "<Tag_0><Tag_1><Tag_2>HP와 BP의<Tag_3>회복도\n<Tag_4>잊지 마세요.<Tag_5><Tag_6>"
     Tags:
       Tag_0:
         Group: 9
