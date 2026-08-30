@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KEnergy_08_KEnergy_08_star_mes_01:
-    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>なにも <Tag_4>起きない…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>なにか <Tag_10>手に<Tag_11>入れてから\nまたきた<Tag_12>方が よさそうだ…<Tag_13><Tag_14>"
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>아무 일도 <Tag_4>일어나지 않는다…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>뭔가를 <Tag_10>손에<Tag_11>넣은 뒤에\n다시 와<Tag_12> 보는 게 좋을 것 같다…<Tag_13><Tag_14>"
     Tags:
       Tag_0:
         Group: 9
@@ -73,7 +73,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   MES_KEnergy_08_KEnergy_08_star_mes_02:
-    Contents: <Tag_0><Tag_1>カタチが<Tag_2>合わないようだ…<Tag_3><Tag_4>
+    Contents: <Tag_0><Tag_1>모양이<Tag_2> 맞지 않는 것 같다…<Tag_3><Tag_4>
     Tags:
       Tag_0:
         Group: 9
