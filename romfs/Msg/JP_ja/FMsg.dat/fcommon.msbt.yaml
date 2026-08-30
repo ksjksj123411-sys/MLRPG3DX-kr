@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_sys_fukki_00:
-    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== お<Tag_4>知らせ ===\n<Tag_5><Tag_6><Tag_7>操作キャラクターが\n<Tag_8><Tag_9><Tag_10>地形に<Tag_11>入り<Tag_12>込んでしまったことを <Tag_13>確認しました。\n<Tag_14><Tag_15>ゲームデータが <Tag_16>壊れた<Tag_17>状態にならないよう\n<Tag_18><Tag_19>キャラクターを<Tag_20>安全な<Tag_21>場所まで <Tag_22>移動させます。<Tag_23><Tag_24>"
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 알림 ===\n<Tag_5><Tag_6><Tag_7>조작 중인 캐릭터가\n<Tag_8><Tag_9><Tag_10>지형에<Tag_11>들어간<Tag_12>상태임을 확인했습니다.\n<Tag_14><Tag_15>게임 데이터가<Tag_16>손상된<Tag_17>상태가 되지 않도록\n<Tag_18><Tag_19>캐릭터를<Tag_20>안전한<Tag_21>장소로<Tag_22>이동시키겠습니다.<Tag_23><Tag_24>"
     Tags:
       Tag_0:
         Group: 9
