@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_work_omit_13:
-    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 仮・未実装 ===\nダークスター戦と\n前後のイベントが未実装です。\nダークスターが外に\n出るところまでスキップします。<Tag_4><Tag_5>"
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 임시 · 미구현 ===\n다크 스타전과\n전후 이벤트가 미구현 상태입니다.\n다크 스타가 밖으로\n나오는 부분까지 건너뜁니다.<Tag_4><Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -37,7 +37,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   MES_KAir_21_KAir_21_mes_6:
-    Contents: <Tag_0><Tag_1><Tag_2>タリナイ…<Tag_3>
+    Contents: <Tag_0><Tag_1><Tag_2>부족해…<Tag_3>
     Tags:
       Tag_0:
         Group: 9
