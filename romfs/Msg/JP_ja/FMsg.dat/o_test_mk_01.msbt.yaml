@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_work_mk_01:
-    Contents: <Tag_0>テストテキスト<Tag_1>
+    Contents: <Tag_0>테스트 텍스트<Tag_1>
     Tags:
       Tag_0:
         Group: 9
