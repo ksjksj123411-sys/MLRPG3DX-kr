@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KEnergy_11_KEnergy_11_mes_01:
-    Contents: "<Tag_0><Tag_1>♪はずかしがりやの テレサさん\n♪<Tag_2>明るい<Tag_3>光で <Tag_4>止まっちゃう～<Tag_5><Tag_6><Tag_7>♪はずかしがりやの テレサさん\n♪<Tag_8>明るい<Tag_9>光で かたまっちゃう～<Tag_10><Tag_11><Tag_12>作詞 ヘモグロびん\n<Tag_13>作曲 ヘモグロびん<Tag_14><Tag_15>タイトル\n「テレていてもいいですか？」<Tag_16>"
+    Contents: "<Tag_0><Tag_1>♪수줍음 많은 테레사 씨\n♪<Tag_2>밝은<Tag_3>빛에 <Tag_4>멈춰버려요~<Tag_5><Tag_6><Tag_7>♪수줍음 많은 테레사 씨\n♪<Tag_8>밝은<Tag_9>빛에 굳어버려요~<Tag_10><Tag_11><Tag_12>작사 헤모글로빈\n<Tag_13>작곡 헤모글로빈<Tag_14><Tag_15>제목\n「부끄러워해도 괜찮을까요?」<Tag_16>"
     Tags:
       Tag_0:
         Group: 9
