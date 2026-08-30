@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_KAir_08_KAir_08_mes_01:
-    Contents: "<Tag_0><Tag_1><Tag_2>헤모글로빈적인 기억으로는…<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>아래에서<Tag_9>두드리면 붙는 블록은\n<Tag_10><Tag_11>추워지면<Tag_12><Tag_13> 얼어서 굳는단다.<Tag_14><Tag_15>블록이 얼어서 굳으면\n붙어 있던 것들은 블록에서\n떨어져 내리는 거야.<Tag_17><Tag_18><Tag_19>참고로\n<Tag_20><Tag_21>빨간<Tag_22>수염의<Tag_23>사람은<Tag_24><Tag_25>버튼…<Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31>초록<Tag_32>수염은<Tag_33><Tag_34>버튼으로\n내려갈 수 있단다.<Tag_35>"
+    Contents: "<Tag_0><Tag_1><Tag_2>헤모글로빈적인 기억으로는…<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>아래에서<Tag_9>두드리면 붙는 블록은\n<Tag_10><Tag_11>추워지면<Tag_12><Tag_13> 얼어서 굳는단다.<Tag_14><Tag_15>블록이 얼어서 굳으면\n붙어 있던 것들은 블록에서\n떨어져 내리는 거란다.<Tag_16><Tag_17><Tag_18><Tag_19>참고로\n<Tag_20><Tag_21>빨간<Tag_22>수염의<Tag_23>사람은<Tag_24><Tag_25>버튼…<Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31>초록<Tag_32>수염은<Tag_33><Tag_34>버튼으로\n내려갈 수 있단다.<Tag_35>"
     Tags:
       Tag_0:
         Group: 9
