@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_work_fh_01:
-    Contents: <Tag_0>てんめつするよ！！
+    Contents: <Tag_0>깜빡일 거야!!
     Tags:
       Tag_0:
         Group: 9
@@ -17,7 +17,7 @@ Messages:
     Attribute: 00000000
     StyleID: 8
   MES_work_fh_02:
-    Contents: <Tag_0>Yボタンをおすと とじるよ
+    Contents: <Tag_0>Y 버튼을 누르면 닫을 수 있어
     Tags:
       Tag_0:
         Group: 9
