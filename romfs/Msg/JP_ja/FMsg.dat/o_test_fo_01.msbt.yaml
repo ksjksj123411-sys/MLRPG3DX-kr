@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_Mushiba_24_Chackran_talk_36:
-    Contents: "<Tag_0><Tag_1>なんや？ キノコタウンに\n<Tag_2>行きたいんか？<Tag_3><Tag_4>ほな <Tag_5>飛ばしたろか？<Tag_6>\n<Tag_7><Tag_8>やめておく\n<Tag_9><Tag_10><Tag_11>飛ばしてもらう<Tag_12>"
+    Contents: "<Tag_0><Tag_1>뭐야? 버섯 타운에\n<Tag_2>가고 싶은 거냐?<Tag_3><Tag_4>그럼 <Tag_5>날려 보내줄까?<Tag_6>\n<Tag_7><Tag_8>그만둔다\n<Tag_9><Tag_10><Tag_11>보내달라고 한다<Tag_12>"
     Tags:
       Tag_0:
         Group: 9
@@ -65,7 +65,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Mushiba_24_Chackran_talk_19:
-    Contents: "<Tag_0><Tag_1>地面が グ～ラグラゆれる\nアタック <Tag_2>覚えてきたんか？<Tag_3><Tag_4>ほな ためしてみ？<Tag_5>\n<Tag_6><Tag_7><Tag_8>ためさない<Tag_9><Tag_10>ためす<Tag_11>"
+    Contents: "<Tag_0><Tag_1>땅이 어질어질 흔들리는\n어택은 <Tag_2>배워 왔냐?<Tag_3><Tag_4>그럼 한번 해보겠냐?<Tag_5>\n<Tag_6><Tag_7><Tag_8>해보지 않는다<Tag_9><Tag_10>해본다<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
